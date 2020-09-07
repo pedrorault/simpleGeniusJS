@@ -7,9 +7,19 @@
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
     <script src='main.js'></script>
+    <style>
+        body { margin: 0; background-color: darkgray;}
+        div {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height:100vh
+        }
+    </style>
 </head>
-<body onload="onLoad()">
-    <object id="svg" data="./draw.svg" type="image/svg+xml"></object>
-    
+<body onload="onLoad()"> 
+    <div>
+        <object id="svg" data="./draw.svg" type="image/svg+xml"></object>
+    </div>  
 </body>
 </html>
