@@ -82,7 +82,7 @@
        d="m 95.118139,877.34686 c 6.714581,0.22631 7.160931,0.65653 8.759371,8.44335 1.46695,7.14634 3.07586,12.10922 5.79073,17.86239 9.87195,20.91985 30.08125,36.46551 52.21754,40.16751 2.69137,0.4501 4.87628,1.21816 5.78816,2.03476 l 1.46484,1.31175 0.15687,35.21484 0.15685,35.21504 -1.84226,1.6045 c -1.75884,1.5321 -2.08296,1.5866 -7.15916,1.2041 -16.25544,-1.225 -34.02862,-6.3256 -50.77823,-14.5723 C 87.890385,995.10799 70.734375,980.63248 55.839001,960.41 41.175535,940.50236 31.915969,916.62037 28.70544,890.42803 c -1.17729,-9.60488 -1.18472,-9.42804 0.475915,-11.31858 l 1.401215,-1.59521 29.581011,-0.17421 c 16.269549,-0.0959 31.999102,-0.0926 34.954558,0.007 z"
        style="fill:#ffffff" />
     <path
-       style="fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:3.29266;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#a9a9;fill-opacity:1;stroke:#000000;stroke-width:3.29266;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="center"
        sodipodi:type="arc"
        sodipodi:cx="174.01056"
@@ -96,7 +96,7 @@
        inkscape:label="center" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
+       style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375;pointer-events: none;"
        x="146.68658"
        y="884.58344"
        id="text4569"><tspan

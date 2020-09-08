@@ -3,22 +3,27 @@
 <head>
     <meta charset='utf-8'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <title>Simon</title>
+    <title>Ra-Simon's Game</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
-    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
     <script src='main.js'></script>
+    <script src="soundjs.min.js"></script>
     <style>
         body { margin: 0; background-color: darkgray;}
         div {
             display: flex;
+            flex-direction: column;
             justify-content: center;
             align-items: center;
             height:100vh
         }
+        p, span {
+            font-size: x-large;
+        } 
     </style>
 </head>
 <body onload="onLoad()"> 
     <div>
+        <p><strong>Recorde: </strong><span id="max">0</span></p>
         <object id="svg" data="./draw.svg" type="image/svg+xml"></object>
     </div>  
 </body>
